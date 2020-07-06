@@ -2,7 +2,6 @@
 
 Predicting Life Expectancy using Machine Learning
 
-youtube video links:
 
 
 
