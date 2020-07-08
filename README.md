@@ -4,7 +4,8 @@ Predicting Life Expectancy using Machine Learning
 
 Youtube video Links:
 https://youtu.be/79y6x2EnaM4
-FEEDBACK VIDEO: https://youtu.be/wLtindiH0ss
+
+FEEDBACK VIDEO: https://youtu.be/YimUFVl6kG4
 
 
 
